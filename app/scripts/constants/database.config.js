@@ -2,7 +2,7 @@
     'use strict';
     app.constant('$dbConfig',
         {
-            name: 'ekPlatinumCard',
+            name: 'appDb',
             options: {mechanisms: ['sqlite', 'indexeddb', 'websql']},
             staticPageTable: 'staticpage',
             schema: {
