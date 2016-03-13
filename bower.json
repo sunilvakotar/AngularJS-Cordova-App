@@ -1,0 +1,16 @@
+{
+  "name": "platinum-web",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "ngCordova": "^0.1.24-alpha",
+    "angular-route": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
+  },
+  "appPath": "app",
+  "devDependencies": {
+    "angular-mocks": "^1.5.0",
+    "karma-read-json": "^1.1.0",
+    "jasmine-jquery": "^2.1.1"
+  }
+}

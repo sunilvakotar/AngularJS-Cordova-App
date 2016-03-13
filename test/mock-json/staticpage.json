@@ -1,0 +1,23 @@
+{
+  "responseModel": {
+    "data": [
+      {
+        "pageId": "page01",
+        "pageName": "About Us",
+        "content": "jsonstring"
+      },
+      {
+        "pageId": "page02",
+        "pageName": "Home",
+        "content": "jsonstring"
+      },
+      {
+        "pageId": "page03",
+        "pageName": "Contact Us",
+        "content": "jsonstring"
+      }
+    ],
+    "status": 1,
+    "error": ""
+  }
+}
