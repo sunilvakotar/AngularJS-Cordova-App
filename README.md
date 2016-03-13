@@ -9,7 +9,8 @@ This is the sample cordova app with Angular JS and Bower.
 ```sh
     $ npm install
 ```
-    npm will use package.json file to install all modules. After running above command you will see 'node_modules' folder.
+    npm will use package.json file to install all modules. 
+    After running above command you will see 'node_modules' folder.
  
  * Now we have to install all lib with the use of BOWER. In this sample i have already added bower.json file and to install lib use below command.
  
@@ -24,7 +25,7 @@ This is the sample cordova app with Angular JS and Bower.
      
 **Grunt**
      
-     you can find Gruntfile.js in base folder. Grunt is used to test and build the application.
+    you can find Gruntfile.js in base folder. Grunt is used to test and build the application.
      
 **karma**
      
