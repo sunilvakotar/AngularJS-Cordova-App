@@ -40,3 +40,6 @@ bower_components
 
 target
 www
+
+*.iml
+.idea
