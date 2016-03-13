@@ -9,7 +9,7 @@ This is the sample cordova app with Angular JS and Bower.
 ```sh
     $ npm install
 ```
-npm will use package.json file to install all modules. After running above command you will see 'node_modules' folder.
+    npm will use package.json file to install all modules. After running above command you will see 'node_modules' folder.
  
  * Now we have to install all lib with the use of BOWER. In this sample i have already added bower.json file and to install lib use below command.
  
@@ -17,7 +17,8 @@ npm will use package.json file to install all modules. After running above comma
     $ bower init
     $ bower install
 ```
-    bower init command will create .bowerrc file with directory property. you can change lib path and also configure proxy.
+    bower init command will create .bowerrc file with directory property. 
+    you can change lib path and also configure proxy.
     bower will download all dependant lib and stored to configured directory.
      
      
